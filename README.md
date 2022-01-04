@@ -1,3 +1,3 @@
 # odin-recipes
 
-Proyect from the foundations path course on the Odin Project.
+Proyect from the foundations path course of the Odin Project.
