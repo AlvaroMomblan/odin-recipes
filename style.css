@@ -1,0 +1,28 @@
+html {
+    background-color: #7C99AC;
+}
+h1 {
+    background-color: #D3DEDC;
+    text-align: center;
+}
+h3 {
+    background-color: #FFEFEF;
+    text-align: center;
+}
+p, li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+img {
+    height: 350px;
+    width: auto;
+    margin-left: 20vw;
+}
+.recipe-img {
+    margin-left: 35vw;
+}
+
